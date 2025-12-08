@@ -1,22 +1,22 @@
-# 📊 Amazon Sales Analysis Dashboard
+# Amazon Sales Analysis Dashboard
 
 **Created by:** Rudra  
 **Tool Used:** Power BI  
 **Data Source:** Amazon Sales Dataset  
 
-## 📸 Dashboard Preview
+##  Dashboard Preview
 
 ![Amazon Sales Dashboard Screenshot](./Dashboard.png)
 
 ---
 
-## 📌 Overview
+## Overview
 
 This interactive Power BI dashboard provides a comprehensive analysis of Amazon sales performance across different categories, regions, cities, time periods, and customer segments. The dashboard is designed to help stakeholders quickly gain insights into business performance and make data-driven decisions.
 
 ---
 
-## 📈 Key Metrics
+##  Key Metrics
 
 - **Total Sales:** 2.30M  
 - **Total Profit:** 286.40K  
@@ -24,7 +24,7 @@ This interactive Power BI dashboard provides a comprehensive analysis of Amazon 
 
 ---
 
-## 🔍 Dashboard Features
+##  Dashboard Features
 
 ### 1. **Sales by Region**
 - A tree map displays sales volume across four major regions: **West, East, Central, South**.
@@ -59,7 +59,7 @@ This interactive Power BI dashboard provides a comprehensive analysis of Amazon 
 
 ---
 
-## 🎯 Use Cases
+##  Use Cases
 
 - **Business Executives**: To track overall sales and profits.
 - **Marketing Teams**: To identify top products and profitable regions.
