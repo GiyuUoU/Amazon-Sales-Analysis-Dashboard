@@ -68,6 +68,6 @@ This interactive Power BI dashboard provides a comprehensive analysis of Amazon 
 
 ---
 
-## 📬 Contact
+##  Contact
 
 For suggestions or queries, please reach out to **Rudra**.
