@@ -2,7 +2,7 @@
 
 **Created by:** Rudra  
 **Tool Used:** Power BI  
-**Data Source:** Amazon Sales Dataset  
+**Data Source:** (Kaggle) Amazon Sales Dataset  
 
 ##  Dashboard Preview
 
